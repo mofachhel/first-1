@@ -122,8 +122,9 @@ font-size: 20px;
 color: #757575;
 }
 /* resume styles */
-.resume{
+.resume-content{
     display: flex;
+    gap: 30px;
 }
 .resume .tittle{
 font-size: 25px;

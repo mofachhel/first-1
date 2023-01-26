@@ -1,0 +1,239 @@
+/* header */
+.header{
+background-image: url(../banner1.png);
+padding-right: 400px;
+width: 1000px;
+height:761x;
+left: 0px;
+top: 0px;
+padding-left: px;
+}
+/* banner tittle */
+.banner-tittle{
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    padding-left: 699px;
+    padding-top: 250px;   
+    color: #151414;
+}
+/* banner description */
+.banner-description{
+    width: 400px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+padding-left: 820px;
+padding-top: 0px;
+text-align: right;
+}
+/* primary button */
+.primary-button{
+text-align: center;
+background-color: gold;
+width: 160px;
+height: 64px;
+left:660px;
+top: 578px;
+padding: 15px 20px;
+}
+.primary{
+   
+   padding-left: 1052px;
+}
+/* main-one */
+.main-one{
+    display: flex;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+}
+/* main-one-img */
+.main-one-img{
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    padding-left: 100px;
+}
+/* main-two */
+.main-two{
+    padding-left: 80px;
+}
+/* failour-tittle */
+.failures-tittle{
+   padding-left: 288 opx;
+   padding-top: 100px;
+   padding-bottom: 10px;
+   height: 94px;
+   left: 862px;
+   top: 1178px;
+   font-family: 'Work Sans';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 50px;
+   line-height: 47px;
+   color: #151414;
+   }
+/* failours-description */
+.failures-description{
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    
+    color: #444343;  
+}
+/* list-item */
+.list-item{
+    width: 340px;
+    height: 26px;
+    left: 862px;
+    top: 1450px;
+}
+/* my-plan */
+.my-plan{
+    justify-content: center;
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 400px;
+    font-size: 45px;
+    width: 1141px;
+    height: 199.96px;
+    left: 230px;
+    top: 1792.3px;
+}
+/* my plans */
+.my-plan-1{
+    display: flex;
+    gap: 180px;
+}
+/* skill-tittle */
+.skill-tittle{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 47px;
+    color: #151414;
+    font-family: Work Sans;
+
+}
+/* skill-description */
+.skill-description{
+    font-family: Work Sans;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+}
+/* watch */
+.watch{
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+border-radius: 8px;
+background-image: url(../new-year-new-me/images/watch.png);
+}
+.end-banner{
+    padding-top: 50px;
+    padding-left: 100px;
+    width: 1140px;
+    height: 300px;
+}
+
+.end-banner-tittle{
+    position: absolute;
+    width: 459px;
+    height: 182px;
+    left: 294px;
+    top: 2100.3px;
+}
+.end-banner-tittle-{
+ font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+color: aliceblue;
+}
+/* call now */
+.call-now{
+    position: absolute;
+    width: 140px;
+    height: 54px;
+    left: 10px; 
+}
+/* footer */
+.footer{
+    gap: 351px;
+    display: flex;
+    position: absolute;
+width: 1400px;
+height: 477px;
+left: 20px;
+top: 2546.3px;
+background-color: black;
+
+}
+.footer-tittle{
+   padding-left: 150px;
+   color: aliceblue;
+   line-height: 26px;
+}
+.future{
+font-family: Work Sans;
+
+font-size: 45px;
+font-weight: 700;
+line-height: 53px;
+letter-spacing: 0em;
+text-align: left;
+color: aliceblue;
+}
+
+.description-footer{
+    width: 485px;
+    height: 78px;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: aliceblue;
+}
+.subscribe{
+    padding-top: 20px;
+width: 325px;
+height: 204px;
+font-size: 40px;
+color: aliceblue;
+}
+.button-2{
+    height: 180ox;
+    width: 60px;
+}
+   
