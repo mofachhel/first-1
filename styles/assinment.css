@@ -1,6 +1,6 @@
 /* header */
 .header{
-background-image: url(../new-year-new-me/images/banner/banner1.png);
+background-image: url(../img/images/banner/banner1.png);
 padding-right: 400px;
 width: 1000px;
 height:761x;
@@ -154,7 +154,7 @@ padding: 15px 20px;
 .watch{
 background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
 border-radius: 8px;
-background-image: url(../new-year-new-me/images/watch.png);
+background-image: url(../img/images/watch.png);
 }
 .end-banner{
     padding-top: 50px;
